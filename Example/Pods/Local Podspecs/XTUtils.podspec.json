@@ -1,0 +1,22 @@
+{
+  "name": "XTUtils",
+  "version": "0.1.0",
+  "summary": "A short description of XTUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kfzzzzzz/XTUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kfzzzzzz": "kongfz@rd.netease.com"
+  },
+  "source": {
+    "git": "https://github.com/kfzzzzzz/XTUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "XTUtils/Classes/**/*"
+}

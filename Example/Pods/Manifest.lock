@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (10.0.0)
+  - Quick (2.2.1)
+  - XTUtils (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 10.0.0)
+  - Quick (~> 2.2.0)
+  - XTUtils (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  XTUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+  XTUtils: fa7072513248131d4e1767291ac33380fb332636
+
+PODFILE CHECKSUM: 266d96a91cecba7d0a59dc5a18c14e5dfb486af1
+
+COCOAPODS: 1.11.2
